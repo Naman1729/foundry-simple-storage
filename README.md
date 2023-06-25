@@ -4,9 +4,9 @@
 This repository contain Simple Storage in foundry framework
  
 
-## Step to flow to start foundary project for scratch
+## Step to flow to start foundry project for scratch
 
-1. To get basic template of foundary framework.
+1. To get basic template of foundry framework.
 
 ```bash
   forge init
