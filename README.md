@@ -37,7 +37,7 @@ This repository contain Simple Storage in foundry framework
 * deploy.
 
 ```bash
-  forge script script/DeploySimpleStorage.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY
+  forge script script/DeploySimpleStorage.s.sol --rpc-url $RPC_URL --private-key $PRIVATE_KEY
 ```
 ## For any help
 
