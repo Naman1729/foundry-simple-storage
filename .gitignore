@@ -1,10 +1,12 @@
 # Compiler files
 cache/
 out/
+.vscode
+promise.md
 
 # Ignores development broadcast logs
 !/broadcast
-/broadcast/*/31337/
+/broadcast
 /broadcast/**/dry-run/
 
 # Docs
